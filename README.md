@@ -92,5 +92,5 @@ and system behavior.
 
 ## Status
 
-Prototype – v0.x  
+Prototype – v0. 1. 0
 Built, tested, and published entirely from a mobile device.
